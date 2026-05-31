@@ -84,11 +84,10 @@ I'm a software developer with **3+ years of experience at Accenture**, specializ
 ---
 
 ### 🏢 Employee Workflow Portal
-> React.js · Spring Boot · PostgreSQL · Spring Security · REST APIs
+> React.js · Spring Boot · MySQL · Spring Security · REST APIs
 
-- Full-stack internal portal for leave management and HR workflows serving **500+ employees**
+- Full-stack internal portal for Todo management
 - RBAC implementation with Spring Security and JWT (admin, manager, employee roles)
-- Reduced HR manual processing time by **30%**
 
 ---
 
