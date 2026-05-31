@@ -93,9 +93,9 @@ I'm a software developer with **3+ years of experience at Accenture**, specializ
 ---
 
 ## 📈 Professional Highlights
+- Accenture  (2021-2024)
 ## 🎓 Education & Certifications
-
-🎓 **B.E.** — Dayananda Sagar College of Engineering *(2016 – 2020)*
+ - B.E. — Dayananda Sagar College of Engineering (2016 – 2020)
 ---
 
 ## 📫 Get in Touch
