@@ -15,10 +15,6 @@
 
 I'm a software developer with **3+ years of experience at Accenture**, specializing in building scalable, cloud-native backend systems. I'm passionate about clean architecture, high-throughput distributed systems, and automating everything I can.
 
-- 🔭 Currently working on cloud-native microservices and IaC automation
-- 🌱 Pursuing **HashiCorp Terraform Associate** certification
-- ⚡ Fun fact: I've helped reduce infrastructure provisioning time from 2 hours to under 10 minutes with Terraform + Jenkins
-
 ---
 
 ## 🛠️ Tech Stack
