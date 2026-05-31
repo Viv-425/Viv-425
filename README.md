@@ -4,7 +4,7 @@
 
 ### Results-driven Software Developer | Java · Spring Boot · Microservices · Cloud & DevOps
 
-📍 Bengaluru, India (Open to PAN India) &nbsp;|&nbsp; 📧 vivek.kumar.dev.4725@gmail.com &nbsp;|&nbsp; 📞 +91 9900982163
+📍 Bengaluru, India (Open to PAN India) &nbsp;|&nbsp; 📧 vivek.kumar.dev.4725@gmail.com &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek--kumar025-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/vivek-kumar025)
 [![GitHub](https://img.shields.io/badge/GitHub-Viv--425-181717?style=flat&logo=github)](https://github.com/Viv-425)
@@ -97,27 +97,9 @@ I'm a software developer with **3+ years of experience at Accenture**, specializ
 ---
 
 ## 📈 Professional Highlights
-
-| Metric | Impact |
-|---|---|
-| API response time reduction | **35%** |
-| Kafka throughput | **1M+ messages/day** |
-| Deployment downtime reduction | **40%** |
-| Infrastructure provisioning effort saved | **60%** |
-| Report generation speedup | **50%** |
-| Weekly operational hours saved | **5+ hrs/week** |
-
----
-
 ## 🎓 Education & Certifications
-
+---
 🎓 **B.E.** — Dayananda Sagar College of Engineering *(2016 – 2020)*
-
-🏅 **AWS Certified Developer – Associate** — Amazon Web Services  
-🏅 **Docker & Kubernetes: The Complete Guide** — Udemy  
-🏅 **Java Spring Boot Microservices** — Coursera / Udemy  
-🔄 **HashiCorp Terraform Associate** — *In Progress*
-
 ---
 
 ## 📫 Get in Touch
