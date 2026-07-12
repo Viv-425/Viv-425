@@ -63,35 +63,9 @@ I'm a software developer with **3+ years of experience at Accenture**, specializ
 
 ---
 
-## 🚀 Key Projects
-
-### 🏥 Doctor Appointment System
-> Java · Spring Boot · Apache Kafka · Docker · Kubernetes · MySQL · JWT
-
-- Event-driven architecture using Kafka, supporting **50K+ daily transactions** with guaranteed message delivery
-- JWT-secured APIs with K8s deployment and autoscaling for peak load handling
-- Reduced order processing latency by **45%** via async inter-service communication and optimized Kafka partitioning
-
----
-
-### ☁️ Cloud Infrastructure Automation (IaC)
-> Terraform · AWS (EC2, S3, RDS) · Jenkins · Bash Shell Scripting
-
-- Automated multi-environment AWS infrastructure provisioning using reusable Terraform modules
-- Jenkins CI/CD integration for Terraform plan/apply lifecycle with one-click environment setup
-- Cut infrastructure provisioning time from **2 hours → under 10 minutes**
-
----
-
-### 🏢 Employee Workflow Portal
-> React.js · Spring Boot · MySQL · Spring Security · REST APIs
-
-- Full-stack internal portal for Todo management
-- RBAC implementation with Spring Security and JWT (admin, manager, employee roles)
-
----
 
 ## 📈 Professional Highlights
+- OpSec Security (2024-present)
 - Accenture  (2021-2024)
 ## 🎓 Education & Certifications
  - B.E. — Dayananda Sagar College of Engineering (2016 – 2020)
