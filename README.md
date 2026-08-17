@@ -6,7 +6,7 @@
 
 📍 Bengaluru, India (Open to PAN India) &nbsp;|&nbsp; 📧 vivek.kumar.dev.4725@gmail.com &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek--kumar025-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/vivek-kumar025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek-kumar?style=flat&logo=linkedin)](https://www.linkedin.com/in/vivek-kumar-325a12323/)
 [![GitHub](https://img.shields.io/badge/GitHub-Viv--425-181717?style=flat&logo=github)](https://github.com/Viv-425)
 
 ---
